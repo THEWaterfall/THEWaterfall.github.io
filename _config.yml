@@ -1,16 +1,18 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              THE WATERFALL
+bio:                'Ordinary portfolio of an ordinary person'
+description:        'Ordinary portfolio of an ordinary person'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/placholder-big.jpg'
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://thewaterfall.github.io
 
 # Jekyll
+paginate:           5
+paginate_path:      "posts/page:num/"
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
@@ -26,7 +28,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   the-waterfall
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +42,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         THEWaterfall
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -50,7 +52,7 @@ instagram:          username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+steam:              MrDeadly
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -68,6 +70,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
