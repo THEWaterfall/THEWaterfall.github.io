@@ -4,15 +4,6 @@
 	height: 100%;
 }
 
-#particles-js .particles-js-canvas-el {
-	
-}
-
-/**
- * clock css
- */
-
-
 .clock {
   transform: translate(-50%, -50%);
   color: #fff;
