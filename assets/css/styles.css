@@ -4,25 +4,3 @@
 	height: 100%;
 }
 
-.clock {
-  transform: translate(-50%, -50%);
-  color: #fff;
-  font-family: "Lato", sans-serif;
-  width: 500px;
-  margin-left: 350px;
-  height: 142px;
-  margin-top: 52px;
-}
-.clock div {
-  padding-top: 5px;
-  float: left;
-  background: #000;
-  border-radius: 6px;
-  width: 96px;
-  height: 80px;
-  text-align: center;
-  font-size: 60px;
-  margin: 0px 5px;
-  margin-top: 63px;
-}
-
