@@ -4,7 +4,7 @@ title: About the author
 tags: [about, author, info]
 date: 2016-03-21
 comments: false
-feature: {{ site.url }}/assets/img/about.jpg
+feature: http://i.imgur.com/Ds6S7lJ.png
 ---
 
 My name is Andrew and I'm a 2-nd year student at *The National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"* and I am learning programming. Actually, **C#** and **Unity 3D**. I'm fond of **English language** as well.
