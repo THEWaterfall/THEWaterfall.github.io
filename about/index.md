@@ -10,9 +10,9 @@ I'm a 2-nd year student at *The National Technical University of Ukraine "Igor S
 
 This is kind of portfolio where I am going to write posts about my learning adventure and about the future projects and as I like English language I'll sometimes write posts in English.
 
-The main idea of the website is 
+The main idea of the website is
+* to create a visit card  
 * to make learning proccess more interesting
-* to create a visit card 
 * to create the platform for the future projects
 * to practice English language
 
