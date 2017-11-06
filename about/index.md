@@ -20,5 +20,5 @@ The main idea of the website is
 If you want to contact me, you can visit the [home page](http://thewaterfall.xyz/) and click any button.
 
 <figure>
-	<a href=""><img src="{{ site.url }}/assets/img/about.jpg"></a>
+	<a href=""><img src="{{ site.url }}/assets/img/about2.jpg"></a>
 </figure>
