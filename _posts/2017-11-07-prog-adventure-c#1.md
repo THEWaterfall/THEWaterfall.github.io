@@ -4,6 +4,8 @@ title:  "Programming adventure: C# chapter 1"
 date:   2017-11-07
 excerpt: "Beginning, learning basis. Variables, types, arrays and so on"
 tag:
+- programming adventure
+- c#
 - beginning 
 - basis
 - variables
