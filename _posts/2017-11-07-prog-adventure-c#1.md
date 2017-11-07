@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Programming Aventure: C# №1"
-date:   2017-07-11
+date:   2017-11-07
 excerpt: "Beginning, learning basis. Variables, types, arrays and so on"
 project: true
 tag:
