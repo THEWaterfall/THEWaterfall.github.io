@@ -33,14 +33,14 @@ So, there are 2 books:
 1. Albahari J., Albahari B. - C# 6.0 in a Nutshell, 6th Edition - 2015
 
 <figure>
-	<a href=""><img src="../assets/img/inanutshell.png"></a>
+	<a href="https://www.google.com.ua/search?q=Albahari+J.%2C+Albahari+B.+-+C%23+6.0+in+a+Nutshell%2C+6th+Edition+-+2015&rlz=1C1CHZL_ruUA749UA749&oq=Albahari+J.%2C+Albahari+B.+-+C%23+6.0+in+a+Nutshell%2C+6th+Edition+-+2015&aqs=chrome..69i57.495j0j7&sourceid=chrome&ie=UTF-8"><img src="../assets/img/inanutshell.png"></a>
 
 </figure>
 
 2. Stellman A., Green J. - Head First C#, 2nd Edition
 
 <figure>
-	<a href=""><img src="../assets/img/headfirst.png"></a>
+	<a href="https://www.google.com.ua/search?q=Stellman+A.%2C+Green+J.+-+Head+First+C%23%2C+2nd+Edition&rlz=1C1CHZL_ruUA749UA749&oq=Stellman+A.%2C+Green+J.+-+Head+First+C%23%2C+2nd+Edition&aqs=chrome..69i57.289j0j9&sourceid=chrome&ie=UTF-8"><img src="../assets/img/headfirst.png"></a>
 	
 </figure>
 
