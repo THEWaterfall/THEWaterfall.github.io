@@ -34,14 +34,14 @@ So, there are 2 books:
 
 <figure>
 	<a href=""><img src="../assets/img/inanutshell.png"></a>
-	<figcaption><a href="" title="C# 6.0 in a Nutshell">C# 6.0 in a Nutshell</a>.</figcaption>
+
 </figure>
 
 2. Stellman A., Green J. - Head First C#, 2nd Edition
 
 <figure>
 	<a href=""><img src="../assets/img/headfirst.png"></a>
-	<figcaption><a href="" title="Head First C#">Head First C#</a>.</figcaption>
+	
 </figure>
 
 ## Addition resources
