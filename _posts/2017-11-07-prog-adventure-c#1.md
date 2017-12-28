@@ -14,10 +14,6 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-
 The first chapter of my adventure where I'm going to make a list of sources I will be using druing my learning.
 Let's devide the sources into 3 groups:
 * Video lessons
@@ -37,14 +33,14 @@ So, there are 2 books:
 1. Albahari J., Albahari B. - C# 6.0 in a Nutshell, 6th Edition - 2015
 
 <figure>
-	<a href=""><img src=""></a>
+	<a href=""><img src="../assets/img/inanutshell.png"></a>
 	<figcaption><a href="" title="C# 6.0 in a Nutshell">C# 6.0 in a Nutshell</a>.</figcaption>
 </figure>
 
 2. Stellman A., Green J. - Head First C#, 2nd Edition
 
 <figure>
-	<a href=""><img src=""></a>
+	<a href="../assets/img/headfirst.jpg"><img src=""></a>
 	<figcaption><a href="" title="Head First C#">Head First C#</a>.</figcaption>
 </figure>
 
