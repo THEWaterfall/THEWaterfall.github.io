@@ -22,7 +22,7 @@ Let's devide the sources into 3 groups:
 
 ## Video lessons
 
-There will be 2 resources I'm going to use: ITDVN.COM and UDEMY.COM(not paid advertisement)
+There will be 2 resources I'm going to use: ITVDN.COM and UDEMY.COM(not paid advertisement)
 1. On the first web resource I've chosen Starter, Essential and Professional packs of learning C# language. In addition to C# I've taken some Unity courses. This resource is Russian-oriented so the lessons are in Russian language as well.
 2. On the second one, which is English language oriented, I have decided to choose the course which is called
 
