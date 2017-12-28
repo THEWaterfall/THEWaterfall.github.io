@@ -40,7 +40,7 @@ So, there are 2 books:
 2. Stellman A., Green J. - Head First C#, 2nd Edition
 
 <figure>
-	<a href="../assets/img/headfirst.png"><img src=""></a>
+	<a href=""><img src="../assets/img/headfirst.png"></a>
 	<figcaption><a href="" title="Head First C#">Head First C#</a>.</figcaption>
 </figure>
 
